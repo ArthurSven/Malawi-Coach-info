@@ -53,4 +53,17 @@
     <string name="kwezy_contact_details">Kwezy Contact Details</string>
     <string name="_0882946650">0882946650</string>
     <string name="_0886780356">0886780356</string>
+    <string name="departure_times_and_points">Departure Times and Points</string>
+    <string name="ticket_fares">Ticket Fares</string>
+    <string name="mzuzu_blantyre"><![CDATA[Mzuzu < - > Blantyre]]></string>
+    <string name="to_blantyre_mwk_32_500">To Blantyre: MWK 32,500</string>
+    <string name="to_kasungu_mwk_13000">To Kasungu: MWK 13000</string>
+    <string name="to_lilongwe_mwk_20000">To Lilongwe: MWK 20000</string>
+    <string name="to_kasungu_mwk_10000">To Kasungu: MWK 10000</string>
+    <string name="to_mzuzu_mwk_20000">To Mzuzu: MWK 20000</string>
+    <string name="to_blantyre_mwk_20000">To Blantyre: MWK 20000</string>
+    <string name="to_kasungu_mwk_24000">To Kasungu: MWK 24000</string>
+    <string name="to_mzuzu_mwk_32500">To Mzuzu: MWK 32500</string>
+    <string name="tickets_can_also_be_bought_via_mpamba_airtel_money_mo626_etc">Tickets can also be bought via Mpamba, Airtel Money, Mo626 etc</string>
+    <string name="ticket_reschudling_can_be_done_at_the_sales_office_before_departure">Ticket reschudling can be done at the sales office before departure</string>
 </resources>

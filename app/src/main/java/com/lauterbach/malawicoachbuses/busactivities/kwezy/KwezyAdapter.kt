@@ -12,7 +12,8 @@ class KwezyAdapter(fragmentActivity: FragmentActivity) : FragmentStateAdapter(fr
         return when(position){
             0 -> { KwezyHomeFragment()}
             1 -> { KwezyDepartureFragment()}
-            2 -> {KwezyContactFragment() }
+            2 -> {KwezyContactFragment()}
+            3 -> {KwezyPriceFragment()}
             else -> {throw Resources.NotFoundException("Position Not found")}
         }
     }

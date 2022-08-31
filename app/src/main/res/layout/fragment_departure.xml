@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
-        android:text="@string/derparture_times_and_points"
+        android:text="@string/departure_times_and_points"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="35sp"

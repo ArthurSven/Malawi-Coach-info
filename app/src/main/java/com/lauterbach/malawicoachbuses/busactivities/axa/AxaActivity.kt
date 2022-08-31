@@ -23,8 +23,9 @@ class AxaActivity : AppCompatActivity() {
         TabLayoutMediator(axaTabLayout, axaViewPager){ tab, index ->
             tab.text = when(index){
                 0 -> {"Home"}
-                1 -> {"Departure"}
-                2 -> {"Contact"}
+                1 -> {"Departures"}
+                2 -> {"Contacts"}
+                3 -> {"Prices"}
                 else -> {throw Resources.NotFoundException("Position not found")}
             }
         }.attach()

@@ -11,9 +11,10 @@ class AxaAdapter(fragmentActivity: FragmentActivity) : FragmentStateAdapter(frag
           0 -> { homeFragment() }
           1 -> { DepartureFragment() }
           2 -> { contactFragment() }
+          3 -> { priceFragment() }
           else -> {throw Resources.NotFoundException("Position not found")}
       }
     }
 
-    override fun getItemCount() = 3
+    override fun getItemCount() = 4
 }

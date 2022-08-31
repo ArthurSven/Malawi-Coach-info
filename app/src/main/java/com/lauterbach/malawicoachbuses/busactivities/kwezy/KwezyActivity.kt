@@ -24,8 +24,9 @@ class KwezyActivity : AppCompatActivity() {
         TabLayoutMediator(kwezyTabLayout, kwezyViewPager){ tab, index ->
             tab.text = when(index){
                 0 -> {"Home"}
-                1 -> {"Department"}
-                2 -> {"Contact"}
+                1 -> {"Departures"}
+                2 -> {"Contacts"}
+                3 -> {"Fares"}
                 else -> {throw Resources.NotFoundException("Position not found")}
             }
         }.attach()
