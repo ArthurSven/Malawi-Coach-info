@@ -1,0 +1,19 @@
+package com.lauterbach.malawicoachbuses.busactivities.kwezy
+
+import android.os.Bundle
+import androidx.fragment.app.Fragment
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import com.lauterbach.malawicoachbuses.R
+
+class KwezyContactFragment : Fragment() {
+
+    override fun onCreateView(
+        inflater: LayoutInflater, container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        // Inflate the layout for this fragment
+        return inflater.inflate(R.layout.fragment_kwezy_contact, container, false)
+    }
+}
