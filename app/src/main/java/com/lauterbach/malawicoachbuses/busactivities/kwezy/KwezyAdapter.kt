@@ -18,5 +18,5 @@ class KwezyAdapter(fragmentActivity: FragmentActivity) : FragmentStateAdapter(fr
         }
     }
 
-    override fun getItemCount() = 3
+    override fun getItemCount() = 4
 }
