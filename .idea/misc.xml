@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable-anydpi/ic_contact.xml" value="0.1" />
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/coach.xml" value="0.102" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/splash_image.xml" value="0.102" />
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/activity_axa.xml" value="0.12986111111111112" />
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/activity_axa2.xml" value="0.22083333333333333" />
@@ -24,6 +27,19 @@
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_kwezy_home.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_kwezy_price.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_price.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_sososo_contact.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_sososo_departure.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_sososo_home.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_sososo_price.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_contact.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_contact_round.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_departure.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_departure_round.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_fare.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_fare_round.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_home_round.xml" value="0.1" />
       </map>
     </option>
   </component>

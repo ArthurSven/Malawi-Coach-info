@@ -81,7 +81,7 @@
 
                 <ImageView
                     android:layout_width="102dp"
-                    android:layout_height="wrap_content"
+                    android:layout_height="40dp"
                     android:src="@drawable/axa" />
 
                 <TextView

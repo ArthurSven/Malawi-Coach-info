@@ -19,7 +19,7 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.MalawiCoachBuses.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.MalawiCoachBuses.AppBarOverlay" parent="Theme.MaterialComponents.Light.NoActionBar" />
 
-    <style name="Theme.MalawiCoachBuses.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.MalawiCoachBuses.PopupOverlay" parent="Theme.Material3.Light.NoActionBar" />
 </resources>
