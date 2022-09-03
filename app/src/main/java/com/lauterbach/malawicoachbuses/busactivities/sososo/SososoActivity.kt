@@ -20,6 +20,10 @@ class SososoActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_sososo)
 
+        //Calling back button
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+
+        //Initialising fragments
         val bottomNavigationView : BottomNavigationView
         val firstFragment = SososoHomeFragment()
         val secondFragment = SososoDepartureFragment()
@@ -28,8 +32,10 @@ class SososoActivity : AppCompatActivity() {
 
         bottomNavigationView = findViewById(R.id.bottomNavigationView)
 
+        //Setting current fragment to default screen
         setCurrentFragment(firstFragment)
 
+        //Setting bottom navigation to correspond with chosen fragment
         bottomNavigationView.setOnNavigationItemSelectedListener {
             when(it.itemId) {
                 R.id.home -> setCurrentFragment(firstFragment)
@@ -43,6 +49,7 @@ class SososoActivity : AppCompatActivity() {
 
     }
 
+    //Function to display current fragment
     private fun setCurrentFragment(fragment: Fragment) {
         supportFragmentManager.beginTransaction().apply {
             replace(R.id.sososoFragment, fragment)

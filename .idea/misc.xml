@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable-anydpi/ic_contact.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable-anydpi/ic_departure.xml" value="0.136" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable-anydpi/ic_fare.xml" value="0.136" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.136" />
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/coach.xml" value="0.102" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/ic_bus.xml" value="0.136" />
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/splash_image.xml" value="0.102" />

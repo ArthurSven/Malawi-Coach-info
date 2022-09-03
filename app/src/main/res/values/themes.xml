@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.MalawiCoachBuses" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Theme.MalawiCoachBuses" parent="Theme.MaterialComponents.Light.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/darkyellow</item>
         <item name="colorPrimaryVariant">@color/darkyellow</item>
@@ -19,7 +19,7 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.MalawiCoachBuses.AppBarOverlay" parent="Theme.MaterialComponents.Light.NoActionBar" />
+    <style name="Theme.MalawiCoachBuses.AppBarOverlay" parent="Theme.MaterialComponents.Light.DarkActionBar" />
 
-    <style name="Theme.MalawiCoachBuses.PopupOverlay" parent="Theme.Material3.Light.NoActionBar" />
+    <style name="Theme.MalawiCoachBuses.PopupOverlay" parent="Theme.Material3.Dark.NoActionBar" />
 </resources>
