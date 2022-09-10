@@ -7,9 +7,9 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/covered"
+        android:icon="@mipmap/covering"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/covered"
+        android:roundIcon="@mipmap/covering_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CoachInfoMalawi"
         tools:targetApi="31">
