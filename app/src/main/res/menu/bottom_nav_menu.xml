@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/home"
-        android:title="@string/home"
-        android:icon="@drawable/ic_home"/>
-
-    <item android:id="@+id/departure"
+<item android:id="@+id/buses"
+    android:title="@string/buses"
+    android:icon="@drawable/ic_action_bus"/>
+    <item android:id="@+id/departures"
         android:title="@string/departures"
-        android:icon="@drawable/ic_departure"/>
-
-    <item android:id="@+id/contact"
-        android:title="@string/contacts"
-        android:icon="@drawable/ic_contact"/>
-
-    <item android:id="@+id/fare"
-        android:title="@string/fares"
-        android:icon="@drawable/ic_fare"/>
-
+        android:icon="@drawable/ic_action_depart"/>
+    <item android:id="@+id/depots"
+        android:title="@string/Depots"
+        android:icon="@drawable/ic_action_depot"/>
 </menu>

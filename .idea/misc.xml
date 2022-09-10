@@ -3,47 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable-anydpi/ic_contact.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable-anydpi/ic_departure.xml" value="0.136" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable-anydpi/ic_fare.xml" value="0.136" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.136" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/coach.xml" value="0.102" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/ic_bus.xml" value="0.136" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/drawable/splash_image.xml" value="0.102" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/activity_axa.xml" value="0.12986111111111112" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/activity_axa2.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/activity_borneo.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/activity_kwezy.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/activity_main.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/activity_sososo.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/activity_splash.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/axa_list_item.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_axa_activity2.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_borneo_home.xml" value="0.20677083333333332" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_contact.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_departure.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_departure2.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_home.xml" value="0.21574074074074073" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_kwezy_contact.xml" value="0.17592592592592593" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_kwezy_departure.xml" value="0.20677083333333332" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_kwezy_home.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_kwezy_price.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_price.xml" value="0.19114583333333332" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_sososo_contact.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_sososo_departure.xml" value="0.19074074074074074" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_sososo_home.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/layout/fragment_sososo_price.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21979166666666666" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_contact.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_contact_round.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_departure.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_departure_round.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_fare.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_fare_round.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_home.xml" value="0.1" />
-        <entry key="..\:/Users/Arthur/AndroidStudioProjects/MalawiCoachBuses/app/src/main/res/mipmap-anydpi-v26/ic_home_round.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/CoachInfoMalawi/app/src/main/res/drawable/bus.xml" value="0.1" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/CoachInfoMalawi/app/src/main/res/layout/activity_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/CoachInfoMalawi/app/src/main/res/layout/activity_splash.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/CoachInfoMalawi/app/src/main/res/layout/fragment_bus.xml" value="0.21" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/CoachInfoMalawi/app/src/main/res/layout/fragment_departure.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/CoachInfoMalawi/app/src/main/res/layout/fragment_depot.xml" value="0.18" />
+        <entry key="..\:/Users/Arthur/AndroidStudioProjects/CoachInfoMalawi/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22083333333333333" />
       </map>
     </option>
   </component>
