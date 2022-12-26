@@ -19,6 +19,7 @@
         android:id="@+id/bottom_nav_menu"
         android:layout_width="match_parent"
         android:layout_height="60dp"
+        android:background="@color/white"
         app:labelVisibilityMode="labeled"
         app:itemTextColor="@color/grey"
         app:layout_constraintBottom_toBottomOf="parent"
