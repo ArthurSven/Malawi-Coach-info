@@ -1,0 +1,254 @@
+[{
+  "serviceId":"1",
+  "coachName": "Kwezy Bus Services",
+  "phone": "+265 9990000211",
+  "terminals": [
+    {
+      "terminalName": "Blantyre - Ex Shire Buslines",
+      "Departures": [
+        {
+          "day": "Monday",
+          "Times": [
+            "07:00 AM",
+            "11:00 AM",
+            "05:00 PM"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "Times": [
+            "07:00 AM",
+            "11:00 AM",
+            "05:00 PM"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "Times": [
+            "07:00 AM",
+            "11:00 AM",
+            "05:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "terminalName": "Lilongwe - Gateway Mall",
+      "Departures": [
+        {
+          "day": "Monday",
+          "Times": [
+            "07:00 AM",
+            "11:00 AM",
+            "05:00 PM"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "Times": [
+            "07:00 AM",
+            "11:00 AM",
+            "05:00 PM"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "Times": [
+            "07:00 AM",
+            "11:00 AM",
+            "05:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "terminalName": "Mzuzu - Chikoma House",
+      "Departures": [
+        {
+          "day": "Monday",
+          "Times": [
+            "07:00 AM",
+            "11:00 AM",
+            "05:00 PM"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "Times": [
+            "07:00 AM",
+            "11:00 AM",
+            "05:00 PM"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "Times": [
+            "07:00 AM",
+            "11:00 AM",
+            "05:00 PM"
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "serviceId":"2",
+  "coachName": "SoSoSo Bus Services",
+  "phone": "+265 9990000211",
+  "terminals": [
+{
+  "terminalName": "Blantyre - Petroda Filling station near Clock Tower",
+  "Departures": [
+{
+  "day": "Monday",
+  "Times": [
+  "07:00 AM",
+  "11:00 AM",
+  "05:00 PM"
+  ]
+},
+{
+"day": "Tuesday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+},
+{
+"day": "Wednesday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+}
+]
+},
+{
+"terminalName": "Lilongwe - Game Complex",
+"Departures": [
+{
+"day": "Monday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+},
+{
+"day": "Tuesday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+},
+{
+"day": "Wednesday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+}
+]
+},
+{
+"terminalName": "Mzuzu - Dry Cleaners' building",
+"Departures": [
+{
+"day": "Monday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+},
+{
+"day": "Tuesday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+},
+{
+"day": "Wednesday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+}
+]
+}
+]
+},
+{
+"serviceId":"3",
+"coachName": "National Bus Services",
+"phone": "+265 9990000211",
+"terminals": [
+{
+"terminalName": "Blantyre - Golden Peacock",
+"Departures": [
+{
+"day": "Monday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+},
+{
+"day": "Tuesday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+},
+{
+"day": "Wednesday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+}
+]
+},
+{
+"terminalName": "Lilongwe - BICC",
+"Departures": [
+{
+"day": "Monday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+},
+{
+"day": "Tuesday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+},
+{
+"day": "Wednesday",
+"Times": [
+"07:00 AM",
+"11:00 AM",
+"05:00 PM"
+]
+}
+]
+}
+]
+}
+]

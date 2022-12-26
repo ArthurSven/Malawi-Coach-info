@@ -18,7 +18,7 @@
             android:layout_marginTop="20dp"
             android:text="@string/axa"
             android:textColor="@color/black"
-            android:textSize="30sp"
+            android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -51,20 +51,20 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:textSize="25sp"
+                android:textSize="20sp"
                 android:textColor="@color/black"
                 android:text="@string/offices"/>
             <TextView
                 android:layout_marginTop="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:text="@string/mzuzu_northend_mall"/>
             <TextView
                 android:layout_marginTop="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:text="@string/city_mall"/>
             <TextView
                 android:layout_marginTop="5dp"
@@ -76,7 +76,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:text="@string/in_addition_ticket_sales_agents_in_the_following_areas_ntcheu_dedza_kasungu_nkhamenya_jenda_mzimba_and_karonga"/>
 
 
@@ -94,14 +94,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:textSize="25sp"
+                android:textSize="20sp"
                 android:textColor="@color/black"
                 android:text="@string/fares"/>
             <TextView
                 android:layout_marginTop="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:text="@string/not_available"/>
         </LinearLayout>
         <LinearLayout
@@ -116,20 +116,20 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:textSize="25sp"
+                android:textSize="20sp"
                 android:textColor="@color/black"
                 android:text="@string/departure_times"/>
             <TextView
                 android:layout_marginTop="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:text="@string/mzuzu_07_00_18_00_northend_mall"/>
             <TextView
                 android:layout_marginTop="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:text="@string/lilongwe_07_00_16_30_city_mall"/>
 
             <TextView
@@ -137,7 +137,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
                 android:text="@string/blantyre_07_00_16_30_18_00_chichiri_next_to_shoprite_complex_n_07_30_16_30_18_00_axa_house_near_blantyre_post_office"
-                android:textSize="20sp" />
+                android:textSize="18sp" />
         </LinearLayout>
         <LinearLayout
             android:id="@+id/axainfocontacts"
@@ -151,20 +151,20 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:textSize="25sp"
+                android:textSize="20sp"
                 android:textColor="@color/black"
                 android:text="@string/contacts"/>
             <TextView
                 android:layout_marginTop="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:text="@string/mzuzu_265_211_95_7164"/>
             <TextView
                 android:layout_marginTop="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:text="@string/lilongwe_265_212_24_5245"/>
 
             <TextView
@@ -172,7 +172,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
                 android:text="@string/blantyre_265_997_71_0045"
-                android:textSize="20sp" />
+                android:textSize="18sp" />
         </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
